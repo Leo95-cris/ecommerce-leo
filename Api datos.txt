@@ -1,0 +1,9 @@
+{"name":"leonardo Franco",
+"email":"leonark_e3@hotmail.com"
+}
+
+{"name":"leonardo Franco",
+"username":"leonardo25",
+"password":"leonark_e3@hotmail.com",
+"email":"leonark_e3@hotmail.com"
+}
